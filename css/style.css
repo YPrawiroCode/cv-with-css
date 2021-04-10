@@ -15,6 +15,11 @@ h2{
     margin: 0 auto 12px auto;
 }
 
+bold{
+    
+    color: yellow;
+}
+
 .btn{
     background-color: #00adb5;
     padding: 12px 30px;
@@ -28,11 +33,12 @@ a:hover{
 
 
 .section{
-    margin-bottom: 150px;
+    margin-bottom: 100px;
 }
 
 a{
     text-decoration: none;
+    color: yellow;
 }
 .footer{
     background-color: #03506f;
@@ -51,7 +57,7 @@ p{
 }
 
 .row2{
-    margin-top: 70px;
+    margin-top: 100px;
     text-align: left;
     }
 
@@ -89,6 +95,18 @@ p{
     display: block;
 }
 
+.portofolio{
+    padding-top: 20px;
+    float: left;
+    position: absolute;
+}
+
+.portofolio2{
+    margin: 45px 0 0 250px;
+    
+    
+}
+
 .social-links{
     color: #00adb5;
 }
@@ -97,6 +115,7 @@ p{
     width: 720px;
     padding-top: 225px;
     margin: 0 auto;
+    
 }
 /*.atas{
     background-color: aqua;
