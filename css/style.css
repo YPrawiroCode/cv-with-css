@@ -17,7 +17,7 @@ h2{
 
 bold{
     
-    color: yellow;
+    color: 	#FFFF00;
 }
 
 .btn{
@@ -38,7 +38,7 @@ a:hover{
 
 a{
     text-decoration: none;
-    color: yellow;
+    color: 	#FFFF00;
 }
 .footer{
     background-color: #03506f;
